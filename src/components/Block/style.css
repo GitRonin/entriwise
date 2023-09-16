@@ -1,0 +1,10 @@
+.wrap-block {
+  background-color: #a0d4c6;
+  border-radius: 7px;
+  border: 1px solid hsl(165, 3%, 49%);
+  width: 100%;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

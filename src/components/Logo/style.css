@@ -1,0 +1,17 @@
+.wrap-logo {
+  background-color: #365b7b;
+  padding: 15px 20px;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 7px;
+  flex-wrap: wrap;
+}
+
+.logo-items {
+  display: flex;
+  gap: 20px;
+  text-decoration: underline;
+  cursor: pointer;
+}
